@@ -3,6 +3,11 @@ SneakPickup
 
 A plugin based on a concept by Bukkit Forums user Harrison015. 
 
+Request: http://forums.bukkit.org/threads/request-real-pickup-only-pickup-items-when-sneaking.285092/
+
+Jar Download: https://docs.google.com/file/d/0B8gSrhfEEZx6bmY3T05yYkR0UUk
+
+
 ===========
 This plugin allows for players to only pickup items if they are crouching. This can be toggled ingame by a player using the command "/pickup [player]".
 
