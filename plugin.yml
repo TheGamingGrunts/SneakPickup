@@ -1,0 +1,6 @@
+name: SneakPickup
+version: 1.0
+main: me.projectx.sneakpickup.Main
+commands:
+  pickup:
+    description: Toggle the ability to pickup items
